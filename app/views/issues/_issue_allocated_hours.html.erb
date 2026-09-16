@@ -1,0 +1,7 @@
+<% extend ResourceBookingsHelper %>
+
+<% if @issue.project.module_enabled?('resources') && @issue.allocated_hours > 0 %>
+  <%= issue_fields_rows do |rows|
+    rows.right l(:label_resources_allocated_hours), issue_allocated_hours_details(@issue)
+  end %>
+<% end %>

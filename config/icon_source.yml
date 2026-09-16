@@ -1,0 +1,8 @@
+# This file is used by icons rake task to download SVG icons from Tabler
+# Keys description:
+#   - name: destination icon name
+#     svg: source icon name from Github repository
+#     style: outline (default) or filled
+
+- name: resource_booking
+  svg: calendar-clock
