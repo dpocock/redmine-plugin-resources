@@ -1,0 +1,8 @@
+app             /usr/share/redmine/plugins/redmine_resources
+assets          /usr/share/redmine/plugins/redmine_resources
+config          /usr/share/redmine/plugins/redmine_resources
+db              /usr/share/redmine/plugins/redmine_resources
+lib             /usr/share/redmine/plugins/redmine_resources
+test            /usr/share/redmine/plugins/redmine_resources
+Gemfile         /usr/share/redmine/plugins/redmine_resources
+init.rb         /usr/share/redmine/plugins/redmine_resources
